@@ -1,6 +1,6 @@
 ![Language](https://img.shields.io/badge/Python-3.10.x-important)&nbsp;
 ![Django](https://img.shields.io/badge/Django-4.2.x-important)&nbsp;
-![Update](https://img.shields.io/badge/Last%20Update-July%2012,%202023-brightgreen)&nbsp;
+![Update](https://img.shields.io/badge/Last%20Update-July%2025,%202023-brightgreen)&nbsp;
 ![Completed](https://img.shields.io/badge/Progress-63/111-important)
 
 - Pipenv Doc — https://pipenv-fork.readthedocs.io/
@@ -21,6 +21,7 @@
 - Create `requirements.txt` file type `pip freeze > requirements.txt`.
 - Install all dependencies after cloning the repo type `pipenv install` then `pipenv install -r requirements.txt`.
 - Check Django version `python -m django --version`.
+- To run the Server `python manage.py runserver`.
 
 ## Tricks/Cheatsheet
 
